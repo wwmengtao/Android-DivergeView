@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-DivergeView.iml" filepath="$PROJECT_DIR$/Android-DivergeView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.homhomlib.divergeview/lib.homhomlib.divergeview.iml" filepath="$PROJECT_DIR$/lib.homhomlib.divergeview/lib.homhomlib.divergeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib.homhomlib.divergeview2/lib.homhomlib.divergeview2.iml" filepath="$PROJECT_DIR$/lib.homhomlib.divergeview2/lib.homhomlib.divergeview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
